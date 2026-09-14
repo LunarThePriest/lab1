@@ -11,5 +11,5 @@ def sing_phantom_of_the_opera():
     print("The phantom of the opera is there,\nInside your mind.")
 
 def average_of(numbers: list):
-    output = sum(numbers)/len(numbers)
-    return output
+    result = sum(numbers)/len(numbers)
+    return result
